@@ -1,0 +1,12 @@
+ID,CLIENT_ID,NAME,DESCRIPTION,ENVIRONMENT,TEAM,TOMCAT_VERSION,JAVA_VERSION,EDIT_WHO,EDIT_DATE
+1,NKE,tsgvm00942,Nike QA Server for OM,QA,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+2,NKE,tsgvm00955,Nike PROD Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+3,NKE,tsgvm00956,Nike PROD Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+4,AMZ,tsgvm00589,Amazon Server for OM,QA,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+5,AMZ,tsgvm00602,Amazon Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+6,ATK,tsgvm00043,ATK Server for OM,QA,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+7,ATK,tsgvm00141,ATK Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+8,ATK,tsgvm00142,ATK Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+9,ALB,tsgvm01032,Albemarle QA Server for OM,QA,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+10,ALB,tsgvm01097,Albemarle PROD Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"
+11,ALB,tsgvm01098,Albemarle PROD Server for OM,PROD,OM,apache-tomcat-6.0.36,jdk1.6.0_29,rcunningham,"2018-05-27 01:02:30"

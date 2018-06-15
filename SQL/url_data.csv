@@ -1,0 +1,5 @@
+ID,CLIENT_ID,NAME,DESCRIPTION,ENVIRONMENT,JOBS_HTTP_URL,WEB_HTTP_URL,WEB_HTTPS_URL,UF_WEB_URL,UF_SRV_URL,UF_MC_URL
+3,NKE,Nike_INSTANCE_URL,Nike QA URLs,QA,http://tsgvm00942.newbreed.com:6060,http://tsgvm00942.newbreed.com:7070,https://tsgvm00942.newbreed.com:7443,http://nke-qa.sc.xpo.com,http://nke-qa.sc.xpo.com,http://nkemc.test.sc.xpo.com
+6,NKE,Nike_INSTANCE_URL,Nike PROD URLs,PROD,http://tsgvm00955.newbreed.com:6060,http://tsgvm00955.newbreed.com:7070,https://tsgvm00955.newbreed.com:7443,http://nke.sc.xpo.com,http://nke.sc.xpo.com,http://nkemc.sc.xpo.com
+7,BCA,BCA URLS,BCA QA URLS,QA,http://tsgvm00106.newbreed.com:6060,http://tsgvm00106.newbreed.com:7070,https://tsgvm00106.newbreed.com:7443,https://bca.test.newbreed.com,http://bcajobs.test.newbreed.com,https://bcaws.test.newbreed.com
+8,BCA,BCA URLS,BCA PROD URLS,PROD,http://tsgvm00145.newbreed.com:6060,http://tsgvm00145.newbreed.com:7070,https://tsgvm00145.newbreed.com:7443,https://bca.xposc.com,https://bcaws.newbreed.com,http://bcajobs.newbreed.com
