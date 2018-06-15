@@ -1,0 +1,12 @@
+CREATE TABLE `jenkins_deployment` (
+  `ID` int(10) unsigned NOT NULL AUTO_INCREMENT,
+  `CLIENT` varchar(30) DEFAULT NULL,
+  `APP_ID` varchar(30) DEFAULT NULL,
+  `RELEASE_DATE` date DEFAULT NULL,
+  `RELEASE_VERSION` varchar(30) DEFAULT NULL,
+  `DB_NAME` varchar(100) DEFAULT NULL,
+  `RELEASE_WHO` varchar(50) DEFAULT NULL,
+  `ENVIRONMENT` varchar(30) DEFAULT NULL,
+  `BUILD_NUMBER` varchar(30) DEFAULT NULL,
+  PRIMARY KEY (`ID`)
+) 
